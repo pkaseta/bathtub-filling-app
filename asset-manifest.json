@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bathtub-filling-app/static/css/main.f698ca88.chunk.css",
+    "main.js": "/bathtub-filling-app/static/js/main.0f217f89.chunk.js",
+    "main.js.map": "/bathtub-filling-app/static/js/main.0f217f89.chunk.js.map",
+    "runtime-main.js": "/bathtub-filling-app/static/js/runtime-main.f6a879b3.js",
+    "runtime-main.js.map": "/bathtub-filling-app/static/js/runtime-main.f6a879b3.js.map",
+    "static/js/2.d172a628.chunk.js": "/bathtub-filling-app/static/js/2.d172a628.chunk.js",
+    "static/js/2.d172a628.chunk.js.map": "/bathtub-filling-app/static/js/2.d172a628.chunk.js.map",
+    "index.html": "/bathtub-filling-app/index.html",
+    "static/css/main.f698ca88.chunk.css.map": "/bathtub-filling-app/static/css/main.f698ca88.chunk.css.map",
+    "static/js/2.d172a628.chunk.js.LICENSE.txt": "/bathtub-filling-app/static/js/2.d172a628.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a879b3.js",
+    "static/js/2.d172a628.chunk.js",
+    "static/css/main.f698ca88.chunk.css",
+    "static/js/main.0f217f89.chunk.js"
+  ]
+}
