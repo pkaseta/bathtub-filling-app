@@ -1,0 +1,11 @@
+.bathtub {
+  margin-top: 40%;
+  height: 100px;
+  width: 300px;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  border-bottom: 10px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+}
